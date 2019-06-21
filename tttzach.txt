@@ -1,13 +1,14 @@
 <span id="a">zachary@tan</span>:<span id="b">~</span><span id="c">$</span> cd ZacharyTan/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">zachary@tan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->tttzach.txt<br/><br/>
-Hello there! <!-- sjkfhskjf -->
+Hello document.write(printname)! <!-- sjkfhskjf -->
 
-Nice to meet you.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>My name is Zachary Tan. I am a student from the University of Waterloo pursuing a Bachelor in Honours Mathematics, Statistics.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> This summer 2019, I have been working as a Software Quality Assurance Intern at Computer Talk Technology Inc.<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+Nice to meet you.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>My name is Zachary Tan. I am a sophomore at the University of Waterloo pursuing a Bachelor in Honours Mathematics, Statistics.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> Currently, I am working as a Software Quality Assurance Intern at Computer Talk Technology Inc.<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Curiosity kills the cat <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> Here are some sources where you can stalk me without me knowing <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> Here are some sources where you can secretly spy on me. <br> <a href="linkedin.com/in/tttzach">LinkedIn</a> <br> <a href="github.com/tttzach">GitHub/a> and <br> <a href="link3">Projects Demo</a>.</p>
 
-Here are the details to stalk me with me knowing!<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+Here are the details where you can not-so-secretly get in touch with me. <!-- slightdelayhere-->Feel free to send me an email at<!-- longlonglongcomment --><a href="zachary.tan@uwaterloo.ca">zachary.tan@uwaterloo.ca</a>.
+<!-- slightdelayhere-->Or even a call at<!-- longlonglongcomment --><a>+1(226)9786666</a>.
 
 <p>Cheers!</p>

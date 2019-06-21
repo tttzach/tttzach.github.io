@@ -1,3 +1,5 @@
+var printname = prompt("What is your name?")
+
 var Typer={
 	text: null,
 	accessCountimer:null,
