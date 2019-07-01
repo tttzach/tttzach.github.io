@@ -1,14 +1,16 @@
 <span id="a">zachary@tan</span>:<span id="b">~</span><span id="c">$</span> cd ZacharyTan/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">zachary@tan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->tttzach.txt<br/><br/>
-Hello document.write(printname)! <!-- sjkfhskjf -->
+Hello there! <!-- sjkfhskjf -->
 
 Nice to meet you.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>My name is Zachary Tan. I am a sophomore at the University of Waterloo pursuing a Bachelor in Honours Mathematics, Statistics.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> Currently, I am working as a Software Quality Assurance Intern at Computer Talk Technology Inc.<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Curiosity kills the cat <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> Here are some sources where you can secretly spy on me. <br> <a href="linkedin.com/in/tttzach">LinkedIn</a> <br> <a href="github.com/tttzach">GitHub/a> and <br> <a href="link3">Projects Demo</a>.</p>
+<p>I am Zachary Tan, a rising sophomore at the University of Waterloo, Canada pursuing a Bachelor in Honours Mathematics, Statistics.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> Currently, I am interning at Computer Talk Technology Inc. as a software quality assurance tester. You can check out what they do <a href="https://www.computer-talk.com/">here</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 
-Here are the details where you can not-so-secretly get in touch with me. <!-- slightdelayhere-->Feel free to send me an email at<!-- longlonglongcomment --><a href="zachary.tan@uwaterloo.ca">zachary.tan@uwaterloo.ca</a>.
-<!-- slightdelayhere-->Or even a call at<!-- longlonglongcomment --><a>+1(226)9786666</a>.
+<p>Also, feel free to take a peek at my <a href="link">Github</a> account.<br><br><br>Completed projects have a [COMPLETE] tag and there should be a demo attached to their descriptions. As for in progress projects, there would be a 'status update' instead of a demo.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
-<p>Cheers!</p>
+<p>Here is my <a href="linkedin.com/in/tttzach">LinkedIn</a> if you are interested in other activities I did apart from those written on my heavily curated resume.</p>
+
+It is all one-sided for now so here are the details where you can get in touch with me. <!-- slightdelayhere-->Feel free to send me an email at <!-- longlonglongcomment --><a href="zachary.tan@uwaterloo.ca">zachary.tan@uwaterloo.ca</a>.
+<!-- slightdelayhere-->Or even a call at <!-- longlonglongcomment --><a>+1(226)9786666</a>.
+
+<p>I look forward to connecting with you soon!</p>
