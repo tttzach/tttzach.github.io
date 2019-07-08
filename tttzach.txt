@@ -3,8 +3,7 @@
 Hello there! <!-- sjkfhskjf -->
 
 Nice to meet you.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I am <span id="a">Zachary Tan</span>, a rising sophomore at the <span id="c">University of Waterloo</span>, Canada pursuing a Bachelor in Honours Mathematics, <span id="b">Statistics</span>.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><p> Currently, I am interning at <a href="https://www.computer-talk.com/">Computer Talk Technology Inc.</a> as a software quality assurance tester.</p><!-- delaydelaydelaydelaydelaydelaydelay --><p>Also, feel free to take a peek at my projects over at <a href="https://github.com/tttzach">Github</a>.<br><br>Here are the links to each individual project. Take your pick.</p>
-<a href="https://github.com/tttzach/stock-market-wizard">Stock Market Wizard</a>
+<p>I am <span id="a">Zachary Tan</span>, a rising sophomore at the <span id="c">University of Waterloo</span>, Canada pursuing a Bachelor in Honours Mathematics, <span id="b">Statistics</span>.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><p> Currently, I am interning at <a href="https://www.computer-talk.com/">Computer Talk Technology Inc.</a> as a software engineer.</p><!-- delaydelaydelaydelaydelaydelaydelay --><p>Feel free to take a peek at my projects over at <a href="https://github.com/tttzach">Github</a>.<br><br>Here are the links to each individual project. Take your pick.</p><a href="https://github.com/tttzach/stock-market-wizard">Stock Market Wizard</a>
 <a href="https://github.com/tttzach/visual-basic-macros">Excel Visual Basic Macros</a>
 <a href="https://github.com/tttzach/ai-tictactoe">Unbeatable Tic Tac Toe Bot</a>
 <a href="https://github.com/tttzach/arduino-distance-sensor">Arduino Ultrasonic Distance Sensor</a>
