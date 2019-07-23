@@ -3,7 +3,7 @@
 Hello there! <!-- sjkfhskjf -->
 
 Nice to meet you.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I am <span id="a">Zachary Tan</span>, a rising sophomore at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, Canada pursuing a Bachelor in Honours Mathematics, <span id="b">Statistics</span>.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><p> Currently, I am interning at <a href="https://www.computer-talk.com/">Computer Talk Technology Inc.</a> as a Software Development Engineer in Test.</p><!-- delaydelaydelaydelaydelaydelaydelay --><p>Feel free to take a peek at my projects over at <a href="https://github.com/tttzach">GitHub</a>.<br><br>Here are the links to each individual project. Take your pick.</p><a href="https://github.com/tttzach/stock-market-wizard">Stock Market Wizard</a>
+<p>I am <span id="a">Zachary Tan</span>, a rising sophomore at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, Canada pursuing a Bachelor in Honours Mathematics, <span id="b">Statistics</span>.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><p> Currently, I am interning at <a href="https://www.computer-talk.com/">Computer Talk Technology Inc.</a> as a Software Development Engineer in Test.</p><!-- delaydelaydelaydelaydelaydelaydelay --><p>Feel free to take a peek at my projects over at <a href="https://github.com/tttzach">GitHub</a>.<br><br>Here are the links to each individual project. Take your pick.</p>
 <a href="https://github.com/tttzach/analytics">Data Analytics Tool for Reddit</a>
 <a href="https://github.com/tttzach/forecasts">Weather Forecast iOS Application</a>
 <a href="https://github.com/tttzach/newhacks">NewHacks 2019 Distance Sensor</a>
